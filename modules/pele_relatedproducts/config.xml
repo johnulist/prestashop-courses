@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pele_relatedproducts</name>
+	<displayName><![CDATA[Pele - Related Products]]></displayName>
+	<version><![CDATA[0.2]]></version>
+	<description><![CDATA[Display related products based on the selected products tags.]]></description>
+	<author><![CDATA[pelechano.es]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

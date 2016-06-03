@@ -1,0 +1,1 @@
+<li><a href="#idTab_RelatedProducts" class="idTabHrefShort">{l s='Related Products' mod='pele_relatedproducts'}</a></li>
